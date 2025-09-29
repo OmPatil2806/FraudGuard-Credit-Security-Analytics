@@ -2,7 +2,8 @@
 
 Developed a FraudGuard-Credit-Security-Analytics system using a complete Machine Learning pipeline to identify fraudulent transactions with high accuracy.
 Pipeline Steps:
- 1️⃣ Data Exploration & Preprocessing – Handled missing values, encoded categorical features, and scaled numerical data using Standardization and Normalization. Engineered features like Hour, Minute, Day Period, and log-transformed Amount for better model performance.
+
+1️⃣ Data Exploration & Preprocessing – Handled missing values, encoded categorical features, and scaled numerical data using Standardization and Normalization. Engineered features like Hour, Minute, Day Period, and log-transformed Amount for better model performance.
  
 2️⃣ Feature Selection & Engineering – Created row-wise statistics (mean, std, max, min) for anonymized transaction features (V1–V28), improving predictive power. Applied one-hot encoding for categorical variables.
 
