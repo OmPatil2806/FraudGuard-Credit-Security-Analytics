@@ -16,3 +16,13 @@ Pipeline Steps:
 6️⃣ Deployment-Ready Insights – Identified key features impacting fraud detection and prepared the pipeline for real-world application.
 
 This project demonstrates the end-to-end ML workflow, from raw data to interpretable, deployable models, combining statistical analysis, feature engineering, model training, and evaluation for accurate fraud detection.
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/1.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/2.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/4.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/5.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/6.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/7.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/8.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/9.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/10.png)
+![image alt](https://github.com/OmPatil2806/FraudGuard-Credit-Security-Analytics/blob/main/11.png)
